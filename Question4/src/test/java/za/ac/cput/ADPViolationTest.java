@@ -6,7 +6,7 @@ import za.ac.cput.ADP_Violation.ClassA;
 import za.ac.cput.ADP_Violation.ClassB;
 
 /**
- * Created by student on 2016/03/24.
+ * Created by bonga on 2016/03/24.
  */
 public class ADPViolationTest {
 

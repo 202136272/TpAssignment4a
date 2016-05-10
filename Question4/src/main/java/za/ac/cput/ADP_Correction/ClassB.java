@@ -1,7 +1,7 @@
 package za.ac.cput.ADP_Correction;
 
 /**
- * Created by student on 2016/03/24.
+ * Created by Bonga on 2016/03/24.
  */
 public class ClassB {
 
