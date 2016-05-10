@@ -6,7 +6,7 @@ import org.junit.Test;
 import za.ac.cput.Srp.Srp_Violation.EmployeViolate;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestSrpV {
 

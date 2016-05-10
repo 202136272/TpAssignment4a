@@ -7,7 +7,7 @@ import za.ac.cput.Isp.Isp_Correction.Cat;
 import za.ac.cput.Isp.Isp_Correction.Dog;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestIspC {
 

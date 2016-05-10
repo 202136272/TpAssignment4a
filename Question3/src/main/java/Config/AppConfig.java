@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import za.ac.cput.Ocp.Ocp_Correction.*;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 
 import za.ac.cput.Ocp.Ocp_Violation.Person;

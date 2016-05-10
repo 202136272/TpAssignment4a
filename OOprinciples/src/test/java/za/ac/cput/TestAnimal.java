@@ -1,7 +1,7 @@
 package za.ac.cput;
 
 /**
- * Created by student on 2016/03/23.
+ * Created by Bonga on 2016/03/23.
  */
 
 import Inheritance_pckg.Bird;

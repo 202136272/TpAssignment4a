@@ -12,7 +12,7 @@ import za.ac.cput.Ocp.Ocp_Correction.StudentImpl;
 import za.ac.cput.Ocp.Ocp_Violation.Person;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestOcpC {
 

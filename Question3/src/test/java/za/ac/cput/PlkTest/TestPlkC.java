@@ -5,7 +5,7 @@ import org.junit.Test;
 import za.ac.cput.Plk.Plk_Correction.ClassA;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestPlkC {
 

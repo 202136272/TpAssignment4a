@@ -4,7 +4,7 @@ import junit.framework.Assert;
 import za.ac.cput.Composition_pckg.Person;
 
 /**
- * Created by student on 2016/03/24.
+ * Created by Bonga on 2016/03/24.
  */
 public class TestComposition
 {

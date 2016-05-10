@@ -6,7 +6,7 @@ import za.ac.cput.Dip.Dip_Correction.Lamp;
 import za.ac.cput.Dip.Dip_Correction.SquaredButton;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestDipC {
 

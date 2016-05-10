@@ -6,7 +6,7 @@ import za.ac.cput.Dip.Dip_Violation.Button;
 import za.ac.cput.Dip.Dip_Violation.Lamp;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestDipV {
 

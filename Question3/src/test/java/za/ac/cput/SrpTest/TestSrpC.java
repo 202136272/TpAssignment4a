@@ -6,7 +6,7 @@ import org.junit.Test;
 import za.ac.cput.Srp.Srp_Correction.RunEmployee;
 
 /**
- * Created by Scorpian on 2016-03-27.
+ * Created by Bonga on 2016-03-27.
  */
 public class TestSrpC {
 
